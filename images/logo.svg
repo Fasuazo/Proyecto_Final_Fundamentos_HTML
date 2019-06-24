@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter id="svg_11_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="0.2"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_8" transform="rotate(-43.2851 71 67.5)"/>
+  <g id="svg_9"/>
+  <g id="svg_10" transform="rotate(-50.5651 71 67.5)">
+   <line fill="none" id="svg_2" stroke="#7b3ac1" stroke-width="5" x1="20.5" x2="68.5" y1="77.5" y2="24.5"/>
+   <line fill="none" id="svg_3" stroke="#7b3ac1" stroke-width="5" x1="21.5" x2="69.5" y1="93.5" y2="40.5"/>
+   <line fill="none" id="svg_4" stroke="#7b3ac1" stroke-width="5" x1="22.5" x2="70.5" y1="110.5" y2="57.5"/>
+   <line fill="none" id="svg_5" stroke="#7b3ac1" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="71.5" x2="118.5" y1="28.5" y2="71.5"/>
+   <line fill="none" id="svg_6" stroke="#7b3ac1" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="72.5" x2="119.5" y1="45.5" y2="88.5"/>
+   <line fill="none" id="svg_7" stroke="#7b3ac1" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="74.5" x2="121.5" y1="63.5" y2="106.5"/>
+  </g>
+  <text fill="#cc5dcc" filter="url(#svg_11_blur)" font-family="Fantasy" font-size="24" font-style="italic" id="svg_11" stroke="#d356d3" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.419 0 0 2.11538 -106.582 -64.1346)" x="86.019636" xml:space="preserve" y="84.645468">FS</text>
+ </g>
+</svg>
